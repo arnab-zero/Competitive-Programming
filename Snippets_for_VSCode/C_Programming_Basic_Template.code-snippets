@@ -1,0 +1,16 @@
+{
+	"C programming template.": {
+		"prefix": "Cs",
+		"body": [
+		  "#include <stdio.h>",
+		  "#include <stdlib.h>",
+		  "#include <string.h>",
+		  "#include <math.h>",
+		  "typedef long long int lli;",
+		  "",
+		  "int main(void){",
+		  "}"
+		],
+		"description": "C programming template."
+	  }
+}
